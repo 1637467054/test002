@@ -8,5 +8,6 @@ public class TestMain {
         System.out.println("master冲突合并提交");
         System.out.println("hot-fix修改代码");
         System.out.println("这是本地修改代码，为了测试远程代码合并问题");
+        System.out.println("这是远程修改了代码，为了测试拉取冲突问题");
     }
 }
