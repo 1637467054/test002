@@ -5,5 +5,6 @@ public class TestMain {
         System.out.println("这是第一次写的代码");
         System.out.println("这是第一次写的代码");
         System.out.println("这是第一次写的代码");
+        System.out.println("master冲突合并提交");
     }
 }
